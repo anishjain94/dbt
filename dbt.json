@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fiery-outpost-321517",
+  "private_key_id": "5b0e2807f4b721c67e88e8d05049a41c60d16cc5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCs3deYyOb7YSSq\nHk7qONp1I9eQG2t8mFNravpuO1IwqJDuR3YBv9Voanbzy2+Jlf3geCDfP2OSDxdG\nsr0yP9siKazkqZipPyZsj4RdXewyhjYwdhaOu8cxYHiB5sajjypQ4R3gzf/Bllkj\nQTQuW7rlQkBK0yz1jlH+OwaJfuNs/sCQPTY8nzNHu6wqR24kIyiUnCyJm8LQOQaj\nbt8jNbe3vFtzwW3x+GITFMkPOzT1QItJekKWPzEkKVjO23NnAR5IDoReyZ6bjiwY\nH1O3pJy4U21SJLFM0FbKxkvkOlTe50GfmOW89zRxt7BXlqCKptjLjPUa3mWsR2+n\n1hg4dH1RAgMBAAECggEACcv2QZtEJOOx3l7CmelQLyKRf0IgjrJ6yswIponf2/BX\nq1tbK5j1tRnQhTtGplFc7pVcRo6q+851Yx0y1ffSuU5LlTdr1o6kxLMC/UAbCFd9\nF3S/zUXE0Y5uMe10XTVaQHRrmy+Ngqj8wv/ZX1W1QzQknOD4K6/tw2bQtWbeqHD1\nEnyY9t5Z/1a/spE+8dMSrwv7slL20vAECFZWaV3l4QUGW4HKa+fD/LzYR60B8HOl\napTxRyopD2RiwpuZdM1bQiCH6pG2mOy7vUWljLylEdL5l6E2EAw+82T1JXm5digt\n5AT0jWaMd04jxZzT75rfbvtIkqiwLAoWbMCozRkZCQKBgQDshezkZxTb/DQUmBHf\n324XtpHfKdVE0DMCT+rsWHMW56tM81/hS1SSRyZomBsqFyusIn0SYEqdRwXMHUHj\nPFRIgPL0tUb8QgniTDTHxAParXG1Imou9KwXsp2PstgR1//5oHadxf3UVK7jFxAf\nKn/O8N4FCxTZoyCx50VVJRfqaQKBgQC7Gf3Iua5dNaVZMEB/NjkVpkJJsyoxMFNs\nRKu6OV+2ASypUNrdPOLEDZhFDG8D4gfAGBFQ1wFfrLAE3eT/kQ1Gk46PssWcNuA3\nOHlW3FxRsfbKb56L32ne2MDi9+rBykgpgk1dEx1mBEPxkTsfbXxSvrXTm5gsUyj3\nb+YhwPEOqQKBgQDf6OEcUKGkqBs9q8CwKTp15HYvx9CINnkzpSiG2i0J8ANw860/\nASts10J7HhQJQqoraPLyZIn+XnAUjVYEouY/RSO7mak7weDNhMsqmlvztuLAUXYo\nQaRxQrx6fxqhudQwI0Jnljn3urtdbEXs2zTnWYs1RwpUBmQ7Ru+R7W24kQKBgAED\ndAd5UgN5PesMwtyti4OdgfBqQwk/LMSCXrfEhcszmG1WXckjAktzk2aUWamYuNgG\niVl5wK0m/1EXbp0fyQWf2P7YRg/BkFdcO/QHf4yFvUN9dUtmq2kknW7dTu07zkZD\nSW3+o4Mg9MlDMyHJcwnztIJv7lQXIzqr5YA7TlL5AoGBAL292ZddRsUwq5K5+lCi\nhPb95r7KWkRkl1O9HpukWtUlKvaS6m7mSqmE41xofKfrQYVSAz7HZK6FXqBEioqU\np+MB/4LJuzvi/CZl2tvTeD+5dZDlZ1cwjiE92xAP5LvXhiVf/fU3YboK+9QrORx/\nwgyuiKnYKR/mUb8whhP+j+6Q\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbtservice@fiery-outpost-321517.iam.gserviceaccount.com",
+  "client_id": "106269816007574258742",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbtservice%40fiery-outpost-321517.iam.gserviceaccount.com"
+}
